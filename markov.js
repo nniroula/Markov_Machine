@@ -65,5 +65,5 @@ class MarkovMachine {
 }
 // to use this class in another file, import it in another file. To do importing-do some exports here.
 module.exports = {
-    MarkovMachine;
+    MarkovMachine
 };
