@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nniroula/Markov_Machine/issues"
   },
-  "homepage": "https://github.com/nniroula/Markov_Machine#readme"
+  "homepage": "https://github.com/nniroula/Markov_Machine#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
 }
